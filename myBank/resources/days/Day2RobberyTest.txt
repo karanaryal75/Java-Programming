@@ -1,0 +1,6 @@
+Joe,Haugh,28,700,50000,10000,123,Cherry Street,818,join,500
+Bob,Costa,55,300,10000,10000,456,Some Blvd,767,join,100
+Dwight,Schrute,35,800,76000,0,341,Schrute Farms,858,join,50
+Jim,Halpert,35,650,5000,5000,678,Quarry Rd,768,join,300
+Michael,Scott,40,300,1000,150000,156,Lonely Dr,865,join,20
+Bad,Guy,19,100,0,0,890,Bad Blvd,515,rob,1000
